@@ -10,15 +10,6 @@ def Button ():
 ("Decompilers",3),
 ("Decompilers",4),
 ("Decompilers",5)
-Button
-command=frame.Button
-frame.slogan = frame.index.__call__Button
-frame, text="Start Decompilers"
-def root (LPAREN):
-    LPAREN = (root)
-    root.mainloop()
-    root = LPAREN()
-root.mainloop(1)
 def show_choice():
         print show_choice()
         root,text == "Select Decompiler"
@@ -47,4 +38,3 @@ def options():
                     if __name__ == '__main__':
                         root.mainloop()
                         root.bind('<Return>')
-root.mainloop()
