@@ -1,7 +1,4 @@
-import dshell
-
-
-class DshellDecoder(dshell.IPDecoder):
+class Decode(dshell.IPDecoder):
 
     def __init__(self):
         dshell.IPDecoder.__init__(self,
